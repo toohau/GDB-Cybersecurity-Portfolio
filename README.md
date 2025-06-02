@@ -76,11 +76,11 @@ Several tools that I used:
 
 ### Other references 
 Please have a look to my mentor:
- [Ketmanto-wangsa](url)](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio)
+ [Ketmanto-wangsa](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio)]
 
 
 **Stay tuned for updates!**
 
 This portfolio will continuously grow as I complete more certificates and projects. No exega
-Thank you for your time. For more information, please connect with me on [Linkedin](linkedin.com/in/gdb/).
+Thank you for your time. For more information, please connect with me on [Linkedin](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile).
 
