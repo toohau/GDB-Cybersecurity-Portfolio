@@ -76,7 +76,7 @@ Several tools that I used:
 
 ### Other references 
 Please have a look to my mentor:
- [Ketmanto-wangsa](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio)]
+ [Ketmanto-wangsa](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio)
 
 
 **Stay tuned for updates!**
